@@ -12,8 +12,8 @@
  ##
  <div>
   <a href="https://github.com/Vivian0096">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Vivian0096&show_icons=true&theme=aura&include_all_commits=true&count_private=false"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivian0096&layout=compact&langs_count=12&theme=aura"/>  
+  <img width="44%" src="https://github-readme-stats.vercel.app/api?username=Vivian0096&show_icons=true&theme=aura&include_all_commits=true&count_private=false"/>
+  <img width="53%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivian0096&layout=compact&langs_count=12&theme=aura"/>  
   </div> 
   
   
