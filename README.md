@@ -1,12 +1,13 @@
-### Olá, aqui é a Vivian Soares 👋
+### Olá, aqui é a Vivian Soares!
 
 - 🌱 Atualmente estou estudando Java.
 
  ##
  
  <div style="display:flex">  
-    <h3>APRENDENDO:</h3>
-     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><a/>    
+    <h4>APRENDENDO:</h4>
+     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><a/> 
+     
    </div>
  
  ##
