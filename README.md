@@ -5,11 +5,11 @@
  ##
  
 
-<div align="center">
+ <div>
   <a href="https://github.com/Vivian0096">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=Vivian0096&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivian0096&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vivian0096&show_icons=true&theme=aura&include_all_commits=true&count_private=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivian0096&layout=compact&langs_count=12&theme=aura"/>  
+  </div> 
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" >
